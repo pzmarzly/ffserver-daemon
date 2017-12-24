@@ -18,7 +18,7 @@ Please adjust the code to your likings.
 2. Compile with `cargo build --release` (`cargo` gets installed with Rust compiler - [download it here](https://www.rust-lang.org/en-US/install.html))
 3. Add `target/release/ffserver-daemon` to your crontab:
    ```
-   @reboot /path/to/ffserver-daemon`
+   @reboot /path/to/ffserver-daemon
    ```
 
 ### How does it work?
