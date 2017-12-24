@@ -1,0 +1,9 @@
+[package]
+name = "ffserver-daemon"
+version = "0.1.0"
+authors = ["Paweł Zmarzły <pawo2500@gmail.com>"]
+
+[dependencies]
+
+[profile.release]
+panic = 'abort'
