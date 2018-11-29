@@ -1,6 +1,8 @@
 # Simple daemon made for `ffserver` livestreaming
 
-Please adjust the code to your likings.
+Please adjust the code to your likings. See https://pzmarzly.pl/2018/03/17/raspberry-pi-livestreaming.html for usage details.
+
+Behavior of this program could probably be replicated (and improved) by using systemd socket-activated services.
 
 ### Features:
 
