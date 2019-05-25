@@ -2,7 +2,7 @@
 
 Please adjust the code to your likings. See https://pzmarzly.pl/2018/03/17/raspberry-pi-livestreaming.html for usage details.
 
-Behavior of this program could probably be replicated (and improved) by using systemd socket-activated services. https://youtu.be/S9YmaNuvw5U?t=18m38s
+Behavior of this program could probably be replicated (and improved) by using systemd socket-activated services. https://youtu.be/S9YmaNuvw5U?t=18m38s http://manpages.org/systemd-socket-proxyd/8 https://sarata.com/manpages/systemd.socket.5.html
 
 ### Features:
 
